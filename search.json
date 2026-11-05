@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "ergebnisse.html",
+    "href": "ergebnisse.html",
+    "title": "Mietfahrräder am Brüsseler Morgen",
+    "section": "",
+    "text": "Die Karte zeigt die bevölkerungsgewichtete mittlere Gehzeit zum nächsten Mietfahrrad für jede der 19 Gemeinden der Brüsseler Hauptstadtregion, basierend auf dem Median über 24 Erhebungstage um 7 Uhr. Bei Bolt und Dott liegt die mittlere Gehzeit in allen Gemeinden unter 2 Minuten. Bei Villo zeigt sich eine ausgeprägte räumliche Heterogenität: Innerstädtische Gemeinden weisen Gehzeiten zwischen 3 und 7 Minuten auf, während mehrere Randgemeinden den Wert von 10 Minuten überschreiten.\n\n\n\n\nDie Abbildung zeigt die Dichteverteilung der medianen Gehzeit zum nächsten Mietfahrrad um 7 Uhr, gewichtet nach der Einwohnerzahl je Rasterzelle. Bei Bolt und Dott ist ein ausgeprägter Peak im Bereich von 1 bis 2 Minuten erkennbar. Bei Villo ist die Verteilung deutlich flacher und erstreckt sich von 0 Minuten bis zu 15 Minuten und darüber hinaus (Gehzeiten von über 15 Minuten sind hier nicht dargestellt).\n\n\n\n\nDie Abbildung stellt den bevölkerungsgewichteten Mittelwert der medianen Gehzeit in Abhängigkeit von der Entfernung zum Grand-Place (historischer Marktplatz im Zentrum Brüssels) dar, aufgeteilt in 2-km-Distanzklassen. Bei Bolt und Dott bleibt die mittlere Gehzeit über alle Distanzklassen nahezu konstant bei etwa 1 Minute. Bei Villo steigt die mittlere Gehzeit mit zunehmender Entfernung vom Stadtzentrum kontinuierlich an, von rund 4 Minuten in der innersten Distanzklasse auf über 12 Minuten ab 12 km Entfernung."
+  },
+  {
+    "objectID": "ergebnisse.html#erreichbarkeit",
+    "href": "ergebnisse.html#erreichbarkeit",
+    "title": "Mietfahrräder am Brüsseler Morgen",
+    "section": "",
+    "text": "Die Karte zeigt die bevölkerungsgewichtete mittlere Gehzeit zum nächsten Mietfahrrad für jede der 19 Gemeinden der Brüsseler Hauptstadtregion, basierend auf dem Median über 24 Erhebungstage um 7 Uhr. Bei Bolt und Dott liegt die mittlere Gehzeit in allen Gemeinden unter 2 Minuten. Bei Villo zeigt sich eine ausgeprägte räumliche Heterogenität: Innerstädtische Gemeinden weisen Gehzeiten zwischen 3 und 7 Minuten auf, während mehrere Randgemeinden den Wert von 10 Minuten überschreiten.\n\n\n\n\nDie Abbildung zeigt die Dichteverteilung der medianen Gehzeit zum nächsten Mietfahrrad um 7 Uhr, gewichtet nach der Einwohnerzahl je Rasterzelle. Bei Bolt und Dott ist ein ausgeprägter Peak im Bereich von 1 bis 2 Minuten erkennbar. Bei Villo ist die Verteilung deutlich flacher und erstreckt sich von 0 Minuten bis zu 15 Minuten und darüber hinaus (Gehzeiten von über 15 Minuten sind hier nicht dargestellt).\n\n\n\n\nDie Abbildung stellt den bevölkerungsgewichteten Mittelwert der medianen Gehzeit in Abhängigkeit von der Entfernung zum Grand-Place (historischer Marktplatz im Zentrum Brüssels) dar, aufgeteilt in 2-km-Distanzklassen. Bei Bolt und Dott bleibt die mittlere Gehzeit über alle Distanzklassen nahezu konstant bei etwa 1 Minute. Bei Villo steigt die mittlere Gehzeit mit zunehmender Entfernung vom Stadtzentrum kontinuierlich an, von rund 4 Minuten in der innersten Distanzklasse auf über 12 Minuten ab 12 km Entfernung."
+  },
+  {
+    "objectID": "ergebnisse.html#versorgungsqualität",
+    "href": "ergebnisse.html#versorgungsqualität",
+    "title": "Mietfahrräder am Brüsseler Morgen",
+    "section": "Versorgungsqualität",
+    "text": "Versorgungsqualität\n\nBevölkerungsanteil mit Zugang in unter 5 Minuten\nDie Abbildung zeigt den Anteil der Brüsseler Bevölkerung mit Zugang zu einem Mietfahrrad in unter 5 Gehminuten, ausgewiesen als Median über 24 Erhebungstage. Bei Bolt und Dott ist ein leichter Rückgang des Versorgungsanteils zwischen 6 und 9 Uhr zu beobachten. Bei Villo bleibt der Anteil konstant bei rund 56 Prozent, da vollständige Stationsleerstände nur selten auftreten, sodass die Erreichbarkeit im Gegensatz zu den Free-Floating-Systemen konstant bleibt.\n\n\n\nTägliche Variabilität der Gehzeit\nDie tägliche Variabilität der Gehzeit wird als Interquartilsabstand (IQR) der Gehzeiten über 24 Erhebungstage pro Rasterzelle quantifiziert und bevölkerungsgewichtet zusammengefasst. Bei Villo beträgt der Median des IQR 0 Minuten. Bei Bolt und Dott liegt das 25. bis 75. Perzentil des IQR jeweils zwischen 1 und 2 Minuten. Die Gehzeit zur nächstgelegenen Villo-Station bleibt damit weitgehend konstant, während sie bei den Free-Floating-Anbietern aufgrund der täglich wechselnden Mietfahrradverteilung stärker variiert."
+  },
+  {
+    "objectID": "ergebnisse.html#villo-im-detail",
+    "href": "ergebnisse.html#villo-im-detail",
+    "title": "Mietfahrräder am Brüsseler Morgen",
+    "section": "Villo im Detail",
+    "text": "Villo im Detail\n\nWie oft sind Villo-Stationen leer?\nDie Abbildung zeigt die Verteilung der 345 benannten Villo-Stationen nach dem Anteil der Messungen ohne verfügbare Mietfahrräder, kategorisiert in drei Klassen. Um 7 Uhr ist mit 283 von 345 Stationen die große Mehrheit der Villo-Stationen an keiner einzigen Messung ohne verfügbare Mietfahrräder. Lediglich 11 bis 15 Stationen weisen einen Leerstand von mehr als 10 Prozent der Messungen auf. Zwischen 6 und 9 Uhr nimmt die Zahl der Stationen ohne beobachtete Leerstände leicht ab, während Stationen mit seltenen Leerständen etwas häufiger werden. Dies spricht für eine zunehmende Nachfrage an den Stationen in den Morgenstunden.\n\n\n\nStationen mit den meisten verfügbaren Mietfahrrädern\nDie Abbildung zeigt die zehn Villo-Stationen mit der höchsten durchschnittlichen Anzahl verfügbarer Mietfahrräder um 7 Uhr, berechnet als arithmetisches Mittel über die 24 Erhebungstage. Alle zehn Stationen befinden sich im Stadtzentrum, an zentralen Verkehrsknotenpunkten wie dem Gare du Nord, dem Gare du Midi und dem Platz De Brouckère. Die Station De Brouckère weist mit durchschnittlich 22,3 verfügbaren Mietfahrrädern den höchsten Wert auf. Wer also morgens in Brüssel radeln möchte, hat dort die Qual der Wahl."
+  },
+  {
+    "objectID": "scrollytelling.html",
+    "href": "scrollytelling.html",
+    "title": "Mietfahrräder am Brüsseler Morgen",
+    "section": "",
+    "text": "Brüssel hat drei große Anbieter von Mietfahrrädern. Aber wie nah ist das nächste Fahrrad morgens, wenn die Stadt aufwacht?\nDiese Analyse untersucht 24 Tage im Sommer 2026 und berechnet für jede bewohnte Rasterzelle die Gehzeit zum nächsten verfügbaren Mietfahrrad.\n\n\n\n\n\n\n\n  \n    \n      Wie weit ist es morgenszum nächsten Mietfahrrad?\n    \n    \n      BRÜSSEL, im Zeitraum 27.06.2026 bis 20.07.2026"
+  },
+  {
+    "objectID": "scrollytelling.html#so-sah-brüssel-aus-27.-juni-2026-7-uhr",
+    "href": "scrollytelling.html#so-sah-brüssel-aus-27.-juni-2026-7-uhr",
+    "title": "Mietfahrräder am Brüsseler Morgen",
+    "section": "So sah Brüssel aus: 27. Juni 2026, 7 Uhr",
+    "text": "So sah Brüssel aus: 27. Juni 2026, 7 Uhr\nVillo, Dott und Bolt stellten zusammen rund 14.800 Mietfahrräder im Stadtgebiet bereit."
+  },
+  {
+    "objectID": "scrollytelling.html#villo-stationsbasiert",
+    "href": "scrollytelling.html#villo-stationsbasiert",
+    "title": "Mietfahrräder am Brüsseler Morgen",
+    "section": "Villo: Stationsbasiert",
+    "text": "Villo: Stationsbasiert\nVillo betreibt 3.700 Mietfahrräder an 345 Stationen.\nIm Median über 24 Tage erreichen um 7 Uhr morgens 56,4% der Brüsseler Bevölkerung ein Villo-Mietfahrrad in unter 5 Gehminuten."
+  },
+  {
+    "objectID": "scrollytelling.html#dott-bolt-free-floating",
+    "href": "scrollytelling.html#dott-bolt-free-floating",
+    "title": "Mietfahrräder am Brüsseler Morgen",
+    "section": "Dott & Bolt:  Free-Floating",
+    "text": "Dott & Bolt:  Free-Floating\nDie Mietfahrräder von Dott (ca. 5.600) und Bolt (ca. 5.500) verteilen sich frei im Stadtgebiet ohne feste Stationen.\nBei Dott und Bolt steigt die Kurve deutlich steiler an: Innerhalb von 5 Gehminuten erreichen rund 88 bzw. 90 % der Brüsseler Bevölkerung im Median über die 24 Tage ein Mietfahrrad."
+  },
+  {
+    "objectID": "scrollytelling.html#der-unterschied-in-zahlen",
+    "href": "scrollytelling.html#der-unterschied-in-zahlen",
+    "title": "Mietfahrräder am Brüsseler Morgen",
+    "section": "Der Unterschied in Zahlen",
+    "text": "Der Unterschied in Zahlen\nAuch wenn Villo über rund 1.800 Fahrräder weniger verfügt, sind die Unterschiede für die fußläufige Erreichbarkeit beachtlich:\n\n\n89,6% der Bevölkerung erreicht Dott in 5 Minuten\n\n\n87,9% der Bevölkerung erreicht Bolt in 5 Minuten\n\n\n56,4% der Bevölkerung erreicht Villo in 5 Minuten"
+  },
+  {
+    "objectID": "scrollytelling.html#wie-ist-deine-gegend-versorgt",
+    "href": "scrollytelling.html#wie-ist-deine-gegend-versorgt",
+    "title": "Mietfahrräder am Brüsseler Morgen",
+    "section": "Wie ist deine Gegend versorgt?",
+    "text": "Wie ist deine Gegend versorgt?\nDie interaktive Karte zeigt die Erreichbarkeit für jede Rasterzelle in Brüssel nach Anbieter und Uhrzeit. Klicke dort auf eine Zelle für den Tagesverlauf.\nZur interaktiven Karte →"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mietfahrräder am Brüsseler Morgen",
+    "section": "",
+    "text": "Wie weit ist es morgens zum nächsten Mietfahrrad?\n\n\n  Eine Erreichbarkeitsanalyse der Brüsseler Anbieter Villo, Dott und Bolt in den Morgenstunden.\n  Zur Analyse →\n\n\n\n  Die Anbieter im Überblick\n  \n    \n      Villo\n      ca. 3.700 Mietfahrräder\n      Stationsbasiert\n      345 Stationen\n    \n    \n      Dott\n      ca. 5.600 Mietfahrräder\n      Free-Floating\n    \n    \n      Bolt\n      ca. 5.500 Mietfahrräder\n      Free-Floating\n    \n  \n\n\n\n  Kernergebnisse\n\nWie viele Menschen erreichen morgens innerhalb von fünf Gehminuten ein Mietfahrrad?\n\n  \n    56,4\n    Prozent\n    der Bevölkerung erreicht Villo in unter 5 Gehminuten\n  \n  \n    89,6\n    Prozent\n    der Bevölkerung erreicht Dott in unter 5 Gehminuten\n  \n  \n    87,9\n    Prozent\n    der Bevölkerung erreicht Bolt in unter 5 Gehminuten\n  \n\n\n  Für die meisten Einwohnenden der Region Brüssel sind Dott- und Bolt-Mietfahrräder morgens innerhalb von fünf Gehminuten erreichbar. Bei Villo hingegen trifft das nur auf etwas mehr als die Hälfte der Einwohnenden zu.\n\n\nWie sehr schwankt die Gehzeit von Tag zu Tag?\n\n  \n    ≈ 0\n    min\n    Villo Kaum tägliche Schwankungen\n  \n  \n    ≈ 1-2\n    min\n    Dott Typische tägliche Schwankung\n  \n  \n    ≈ 1-2\n    min\n    Bolt Typische tägliche Schwankung\n  \n\n\n  Die Gehzeit zu Villo-Mietfahrrädern bleibt von Tag zu Tag nahezu unverändert. Bei den Free-Floating-Anbietern Dott und Bolt schwankt sie dagegen leicht, da die verfügbaren Mietfahrräder täglich an unterschiedlichen Standorten verteilt sind.\n\n\n\nFindet man am Stadtrand genauso schnell ein Mietfahrrad wie im Zentrum?\n\n  \n    +8\n    min\n    Villo Rund 8 Minuten längerer Fußweg am Stadtrand\n  \n  \n    ≈ 0\n    min\n    Dott Die Gehzeit bleibt stadtweit nahezu konstant\n  \n  \n    ≈ 0\n    min\n    Bolt Die Gehzeit bleibt stadtweit nahezu konstant\n  \n\n\n  Während sich die Erreichbarkeit von Dott und Bolt kaum zwischen Zentrum und Stadtrand unterscheidet, verlängert sich der Weg zum nächsten Villo-Mietfahrrad außerhalb des Zentrums deutlich. Ursache ist das stationsgebundene Netz von Villo, das vor allem in den äußeren Stadtteilen weniger dicht ausgebaut ist.\n\n\n\n\n  Über die Analyse\n  Diese Studie untersucht die fußläufige Erreichbarkeit von Mietfahrrädern im Brüsseler Morgenverkehr (6–9 Uhr). Grundlage sind GBFS-Echtzeit-Feeds, die über 24 Tage alle 15 Minuten erfasst wurden. Die Gehzeiten wurden mit dem R-Paket r5r auf dem OpenStreetMap-Fußwegenetz berechnet.\n  Zur Methodik →"
+  },
+  {
+    "objectID": "karte.html",
+    "href": "karte.html",
+    "title": "Mietfahrräder am Brüsseler Morgen",
+    "section": "",
+    "text": "Karte wird geladen …\n  Dies kann beim ersten Aufruf bis zu einer Minute dauern."
+  },
+  {
+    "objectID": "impressum.html",
+    "href": "impressum.html",
+    "title": "Impressum & Bildnachweis",
+    "section": "",
+    "text": "Florian Hinz\nflorian.hinz@student.hs-rm.de"
+  },
+  {
+    "objectID": "impressum.html#kontakt",
+    "href": "impressum.html#kontakt",
+    "title": "Impressum & Bildnachweis",
+    "section": "",
+    "text": "Florian Hinz\nflorian.hinz@student.hs-rm.de"
+  },
+  {
+    "objectID": "impressum.html#bildnachweis",
+    "href": "impressum.html#bildnachweis",
+    "title": "Impressum & Bildnachweis",
+    "section": "Bildnachweis",
+    "text": "Bildnachweis\nTitelbild: By Szymon Staniec - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=194984613"
+  },
+  {
+    "objectID": "impressum.html#hinweis",
+    "href": "impressum.html#hinweis",
+    "title": "Impressum & Bildnachweis",
+    "section": "Hinweis",
+    "text": "Hinweis\nDiese Website entstand im Rahmen des Moduls “Datenmanagement, -analyse und -visualisierung” an der Hochschule RheinMain, Wiesbaden. Die Inhalte dienen ausschließlich wissenschaftlichen Zwecken."
+  },
+  {
+    "objectID": "methodik.html",
+    "href": "methodik.html",
+    "title": "Mietfahrräder am Brüsseler Morgen",
+    "section": "",
+    "text": "Die Verfügbarkeitsdaten der drei Brüsseler Mietfahrrad-Anbieter Villo, Dott und Bolt wurden über die jeweiligen GBFS-Feeds erhoben. Mithilfe eines automatisierten Logging-Systems auf Basis von GitHub Actions wurden alle 15 Minuten Standort und Verfügbarkeit jedes Mietfahrrads gespeichert. Der Erhebungszeitraum umfasst 24 Tage vom 27. Juni bis 20. Juli 2026."
+  },
+  {
+    "objectID": "methodik.html#datenerhebung",
+    "href": "methodik.html#datenerhebung",
+    "title": "Mietfahrräder am Brüsseler Morgen",
+    "section": "",
+    "text": "Die Verfügbarkeitsdaten der drei Brüsseler Mietfahrrad-Anbieter Villo, Dott und Bolt wurden über die jeweiligen GBFS-Feeds erhoben. Mithilfe eines automatisierten Logging-Systems auf Basis von GitHub Actions wurden alle 15 Minuten Standort und Verfügbarkeit jedes Mietfahrrads gespeichert. Der Erhebungszeitraum umfasst 24 Tage vom 27. Juni bis 20. Juli 2026."
+  },
+  {
+    "objectID": "methodik.html#untersuchungszeitraum",
+    "href": "methodik.html#untersuchungszeitraum",
+    "title": "Mietfahrräder am Brüsseler Morgen",
+    "section": "Untersuchungszeitraum",
+    "text": "Untersuchungszeitraum\nDie Analyse konzentriert sich auf die Morgenstunden 6, 7, 8 und 9 Uhr, die Tageszeit, zu der Menschen typischerweise von zu Hause aufbrechen. Für jeden der 24 Tage wurde jeweils der Datensatz zur vollen Stunde ausgewählt und analysiert."
+  },
+  {
+    "objectID": "methodik.html#räumliche-grundlage",
+    "href": "methodik.html#räumliche-grundlage",
+    "title": "Mietfahrräder am Brüsseler Morgen",
+    "section": "Räumliche Grundlage",
+    "text": "Räumliche Grundlage\nDas Stadtgebiet Brüssels wurde in 125×125m-Rasterzellen aufgeteilt, denen jeweils Bevölkerungsdaten aus der Volkszählung von Statbel zugewiesen sind. In die Analyse einbezogen wurden ausschließlich bewohnte Zellen. Da Statbel dünn besiedelte Gebiete aus Datenschutzgründen auf einer gröberen Rasterstufe zusammenfasst, sind einzelne Zellen 250m, 500m oder 1km groß."
+  },
+  {
+    "objectID": "methodik.html#erreichbarkeitsberechnung",
+    "href": "methodik.html#erreichbarkeitsberechnung",
+    "title": "Mietfahrräder am Brüsseler Morgen",
+    "section": "Erreichbarkeitsberechnung",
+    "text": "Erreichbarkeitsberechnung\nFür jeden Zellmittelpunkt wurde die Gehzeit zum nächsten verfügbaren Mietfahrrad auf dem Fußwegenetz berechnet. Grundlage hierfür bildeten OpenStreetMap-Daten sowie das Routing-Paket r5r, das Gehzeiten in ganzen Minuten ausgibt. Die ausgewiesenen Erreichbarkeitswerte entsprechen in der Regel dem Median über alle 24 Erhebungstage."
+  },
+  {
+    "objectID": "methodik.html#codedaten",
+    "href": "methodik.html#codedaten",
+    "title": "Mietfahrräder am Brüsseler Morgen",
+    "section": "Code/Daten",
+    "text": "Code/Daten\nDer vollständige R-Code sowie die verwendeten Daten sind im GitHub-Repository verfügbar: github.com/florianhinz-gis/bikeshare-bruessel"
+  }
+]

@@ -1,0 +1,173 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,400&display=swap');
+
+/* Grundschriften */
+body {
+  font-family: 'Source Serif 4', Georgia, serif;
+  background-color: #FAFAF8;
+  color: #1A1A1A;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 700;
+  color: #1A1A1A;
+  line-height: 1.2;
+}
+
+/* Navigation */
+.navbar {
+  font-family: 'Source Serif 4', serif;
+  font-size: 0.95rem;
+  letter-spacing: 0.02em;
+  padding: 0.8rem 1.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+/* Hero-Bereich */
+.hero {
+  background-color: #2C3E6B;
+  color: #FAFAF8;
+  padding: 6rem 2rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 3.2rem;
+  font-weight: 900;
+  color: #FAFAF8;
+  max-width: 800px;
+  margin: 0 auto 1.5rem;
+  line-height: 1.15;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  color: rgba(250, 250, 248, 0.85);
+  max-width: 600px;
+  margin: 0 auto 2.5rem;
+  line-height: 1.6;
+}
+
+.hero-btn {
+  display: inline-block;
+  background: #F5C800;
+  color: #1A1A1A;
+  font-family: 'Source Serif 4', serif;
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 0.85rem 2.5rem;
+  border-radius: 3px;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+
+.hero-btn:hover {
+  background: #e0b400;
+  color: #1A1A1A;
+  text-decoration: none;
+}
+
+/* Kennzahlen-Karten */
+.kennzahl-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin: 0.5rem 0;
+}
+
+.kennzahl-karte {
+  background: #ffffff;
+  border: 1px solid #e8e8e4;
+  border-top: 4px solid #2C3E6B;
+  padding: 2rem 1.5rem;
+  text-align: center;
+}
+
+.kennzahl-zahl {
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1;
+  margin-bottom: 0.5rem;
+}
+
+.kennzahl-label {
+  font-size: 0.9rem;
+  color: #666;
+  line-height: 1.4;
+}
+
+/* Anbieter-Farben für Kennzahlen */
+.villo { color: #F5C800; }
+.dott  { color: #00C2E8; }
+.bolt  { color: #34D186; }
+
+/* Abschnitte */
+.abschnitt {
+  max-width: 860px;
+  margin: 4rem auto;
+  padding: 0 1.5rem;
+}
+
+.abschnitt-titel {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid #e8e8e4;
+}
+
+/* Anbieter-Karten */
+.anbieter-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.anbieter-karte {
+  background: #ffffff;
+  border: 1px solid #e8e8e4;
+  padding: 1.5rem;
+}
+
+.anbieter-karte h3 {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+}
+
+.anbieter-karte .typ {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #888;
+  margin-bottom: 1rem;
+}
+
+/* Footer */
+.page-footer {
+  font-size: 0.85rem;
+  padding: 1.2rem 1.5rem;
+}
+
+/* Scrollytelling Anpassungen */
+.cr-section {
+  font-family: 'Source Serif 4', serif;
+}
+
+.cr-narrative h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.6rem;
+}
+
+a.anchorjs-link { display: none; }
